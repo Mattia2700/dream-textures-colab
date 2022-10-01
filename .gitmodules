@@ -1,4 +1,4 @@
 [submodule "stable-diffusion"]
 	path = stable_diffusion
-	url = https://github.com/lstein/stable-diffusion
+	url = git@github.com:Mattia2700/InvokeAI.git
 	branch = development
